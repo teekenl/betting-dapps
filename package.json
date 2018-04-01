@@ -1,0 +1,33 @@
+{
+  "name": "betting-dapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teekenl/betting-dapps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teekenl/betting-dapps/issues"
+  },
+  "homepage": "https://github.com/teekenl/betting-dapps#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "json-loader": "^0.5.7",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "style-loader": "^0.20.3",
+    "web3": "^0.20.0",
+    "webpack": "^4.4.1"
+  }
+}
